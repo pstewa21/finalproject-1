@@ -9,7 +9,7 @@ body {
 
   /* Header */
   header {
-    background: url('/Users/homefolder/Desktop/git215/final/images/swiss-valley.jpg') center/cover no-repeat;
+    background: url('images/swiss-valley.jpg') center/cover no-repeat;
     text-align: center;
     padding: 20px;
     height: 300px;
